@@ -1,0 +1,9 @@
+[
+  {
+    "id": "1bd74593-fe8c-41a1-afc5-66cd5d5b0639",
+    "topic": "What is Carrier?",
+    "note": "Carrier is a web-based notes app built from scratch with full CRUD functionality. You can save, edit, delete, pin, and filter notes. It handles both frontend logic and session-based persistence, with dynamic UI elements and custom themes. It's lightweight, fast, and designed to show what I can build when utility meets visual flair.",
+    "timestamp": "2025-05-15T13:24:27.496Z",
+    "pin": false
+  }
+]

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Carrier</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Poppins:wght@600&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <img src="Carrier.png" alt="Carrier Logo" class="carrier-logo">
+    </header>
+
+    <div class="theme-toggle-container">
+        <button id="toggleTheme">Toggle Darker Mode</button>
+      </div>
+      
+  
+    <div class="main-container">
+  
+      <div class="search-container">
+        <h2>Filter Notes</h2>
+        <input type="text" id="searchInput" placeholder="Search notes...">
+      </div>
+  
+      <div class="form-container">
+        <h2>Add or Edit Note</h2>
+        <div id="message"></div>
+        <form id="noteForm">
+          <input type="text" id="topic" placeholder="Topic">
+          <textarea id="note" rows="4" placeholder="Your note..."></textarea>
+          <button type="submit" class="save-btn">Save</button>
+          
+        </form>
+      </div>
+  
+      <div class="notes-container">
+        <h2>Saved Notes</h2>
+        <ul id="notesList"></ul>
+      </div>
+  
+    </div>
+  
+    <script src="app.js"></script>
+  </body>
+  
+</html>
