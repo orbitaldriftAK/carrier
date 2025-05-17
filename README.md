@@ -1,7 +1,7 @@
-# Carrier 🛸  
+# Carrier 
 A sleek, multi-theme, keyboard-friendly note-taking app with custom StarCraft-inspired aesthetics.
 
-## ✨ Overview
+##  Overview
 
 **Carrier** is a web-based note management tool featuring dynamic theme switching, keyboard-based navigation, and full CRUD functionality backed by a local server. Built with a sci-fi aesthetic in mind, Carrier isn't just another notes app — it's designed to feel like a command terminal inside a Protoss capital ship.
 
